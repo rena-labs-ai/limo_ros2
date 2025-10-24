@@ -17,9 +17,9 @@
   <depend>joint_state_publisher</depend>
   <depend>joint_state_publisher_gui</depend>
   <depend>xacro</depend>
-  <depend>rviz</depend>
+  <depend>rviz2</depend>
   <depend>gazebo</depend>
-  <depend>libgazebo_ros</depend>
+  <depend>gazebo_ros_pkgs</depend>
   <depend>rqt_robot_steering</depend>
   
   <export>
